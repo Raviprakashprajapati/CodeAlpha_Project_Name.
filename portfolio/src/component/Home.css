@@ -1,0 +1,31 @@
+.Home{
+    /* background-image: url("../image/backgorund\ image.jpg"); */
+    background:rgba(0, 0, 0, 0.5) url("../image/backgorund\ image.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    /* opacity: 0.95; */
+    /* background-color: rgba(0, 0, 10, 0.9); */
+    background-blend-mode: darken;
+}
+
+.Home h1{
+    position: relative;
+    color: rgb(245, 245, 245);
+    font-size: 60px;
+    top: 20%;
+    /* font-family: monospace; */
+    /* font-weight: bolder; */
+    /* left: 50%; */
+    text-align: center;
+    /* font-size: 72px; */
+    /* background: -webkit-linear-gradient(#000000, #333);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: #fff; */
+    font-family: 'Caprasimo', cursive;
+
+text-shadow: 3px 3px 20px #ff99cc,
+    -2px 1px 30px #000000;
+}

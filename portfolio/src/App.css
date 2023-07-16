@@ -1,0 +1,19 @@
+/* font-family: 'Caprasimo', cursive; */
+
+.Navbar {
+    background-color: rgb(189, 0, 31);
+    box-shadow: 0 2px 5px 0.5px white;
+    padding: 10px;
+}
+
+body {
+    /* background-color: black; */
+    /* background-image: linear-gradient(); */
+    /* background-color: #000000;
+    background-image: linear-gradient(147deg, #000000 0%, #04619f 74%); */
+    /* background-color: #e84393;
+background-image: linear-gradient(315deg, #e84393 0%, #000000 74%); */
+background-color: #0cbaba;
+background-image: linear-gradient(315deg, #0cbaba 0%, #380036 74%);
+
+}
